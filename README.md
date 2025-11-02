@@ -1,2 +1,4 @@
-# LLM_memory_constraints
-Official repository of "Cognitive Diversity in Artificial Minds - Investigating the Performance of Large Language Models Under Memory Constraints"
+# How to Run the Code
+- Download/Clone the directory above
+- Install dependencies whith `pip install -r requirements.txt`
+- Run the file named `main.py`
