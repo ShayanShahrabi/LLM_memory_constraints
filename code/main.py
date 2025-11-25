@@ -1,7 +1,7 @@
 """
 Main execution script for memory-attention trade-off analysis
-Paper: [Your Paper Title]
-Author: [Your Name]
+Paper: Cognitive Diversity in LLMs Under Memory Constraints
+Author: Shayan Shahrabi
 """
 
 import os
@@ -14,7 +14,7 @@ from visualization import create_comprehensive_analysis
 from reporting import generate_final_report
 
 def main():
-    print("🚀 FINAL Memory-Attention Trade-off Analysis")
+    print("FINAL Memory-Attention Trade-off Analysis")
     print("=" * 60)
 
     # Create results directory
@@ -50,4 +50,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
