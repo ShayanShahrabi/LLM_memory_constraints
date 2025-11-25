@@ -23,7 +23,7 @@ def main():
     # Load models
     models = load_all_models()
     if not models:
-        print("❌ No models loaded successfully. Exiting.")
+        print("No models loaded successfully. Exiting.")
         return
 
     # Run the final experiment
@@ -50,3 +50,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
